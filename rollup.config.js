@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorNativeSettings',
+      name: 'TrieutulongCapacitorNativeSettings',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
