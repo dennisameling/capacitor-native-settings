@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-native-settings",
-  "version": "0.0.1",
+  "name": "@trieutulong/capacitor-native-settings",
+  "version": "0.0.3",
   "description": "Capacitor plugin to open native settings screens for android and iOS",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorNativeSettings.podspec"
+    "TrieutulongCapacitorNativeSettings.podspec"
   ],
   "author": "Raphael vd Woude",
   "license": "MIT",
